@@ -36,6 +36,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 ### Record 100
 
+**Heart Rate: 74.074 BPM**
+
 <img src="./images/100_1.png"> 
 <img src="./images/100_band_pass.png"> 
 <img src="./images/100_deri.png"> 
@@ -45,6 +47,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 
 ### Record 101
+
+**Heart Rate: 73.770 BPM**
 
 <img src="./images/101_1.png"> 
 <img src="./images/101_band_pass.png"> 
@@ -57,6 +61,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 ### Record 102
 
+**Heart Rate: 71.92 BPM**
+
 <img src="./images/102_1.png"> 
 <img src="./images/102_band_pass.png"> 
 <img src="./images/102_deri.png"> 
@@ -66,6 +72,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 
 ### Record 103
+
+**Heart Rate: 70.175 BPM**
 
 <img src="./images/103_1.png"> 
 <img src="./images/103_band_pass.png"> 
@@ -78,6 +86,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 ### Record 104
 
+**Heart Rate: 74.586 BPM**
+
 <img src="./images/104_1.png"> 
 <img src="./images/104_band_pass.png"> 
 <img src="./images/104_deri.png"> 
@@ -87,6 +97,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 
 ### Record 105
+
+**Heart Rate: 82.759 BPM**
 
 <img src="./images/105_1.png"> 
 <img src="./images/105_band_pass.png"> 
@@ -98,6 +110,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 ### Record 106
 
+**Heart Rate: 64.286 BPM**
+
 <img src="./images/106_1.png"> 
 <img src="./images/106_band_pass.png"> 
 <img src="./images/106_deri.png"> 
@@ -107,6 +121,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 
 ### Record 107
+
+**Heart Rate: 76.968 BPM**
 
 <img src="./images/107_1.png"> 
 <img src="./images/107_band_pass.png"> 
@@ -118,6 +134,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 ### Record 108
 
+**Heart Rate: 131.792 BPM**
+
 <img src="./images/108_1.png"> 
 <img src="./images/108_band_pass.png"> 
 <img src="./images/108_deri.png"> 
@@ -127,6 +145,8 @@ Following all the steps, we are able to detect QRS complexes and thus R-peaks an
 
 
 ### Record 109
+
+**Heart Rate: 109.327 BPM**
 
 <img src="./images/109_1.png"> 
 <img src="./images/109_band_pass.png"> 
